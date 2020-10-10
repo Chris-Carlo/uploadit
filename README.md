@@ -3,8 +3,7 @@ Simple URL uploader bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
 ## Deploy with Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Chris-Carlo/uploadit) 
 1-) Deploy it and run `http://{yourappname}.herokuapp.com/fileassistantbot.php`
 
 2-)Write your App ID/Hash and Bot Token.
